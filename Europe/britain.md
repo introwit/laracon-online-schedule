@@ -1,3 +1,5 @@
+## BST (UTC +0)
+
 - 8th March - 01:00pm - Mingle in Slack
 - 8th March - 01:45pm - Opening remarks
 - 8th March - 02:00pm - Jeffrey Way
