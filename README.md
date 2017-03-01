@@ -15,3 +15,4 @@ Add the timezone at the top. If the schedule is already there in your country's 
 |	| 	|	|[Germany](Europe/germany.md)|
 |	| 	|	|[Portugal](Europe/portugal.md)|
 |	| 	|	|[Belgium](Europe/Belgium.md)|
+|	| 	|	|[Serbia](Europe/serbia.md)|
