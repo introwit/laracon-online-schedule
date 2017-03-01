@@ -20,3 +20,6 @@ As listed above this repo contains the markdown files with the country name as t
 - [Pakistan](https://github.com/introwit/laracon-online-schedule/blob/master/Asia/pakistan.md)
 - [Mexico](https://github.com/introwit/laracon-online-schedule/blob/master/NorthAmerica/mexico.md)
 - [Philippines](https://github.com/introwit/laracon-online-schedule/blob/master/Asia/philippines.md)
+- [Egypt](https://github.com/introwit/laracon-online-schedule/blob/master/Africa/egypt.md)
+- [Nepal](https://github.com/introwit/laracon-online-schedule/blob/master/Asia/nepal.md)
+- [Belgium](https://github.com/introwit/laracon-online-schedule/blob/master/Europe/belgium.md)
