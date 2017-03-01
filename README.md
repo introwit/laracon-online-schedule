@@ -16,3 +16,4 @@ As listed above this repo contains the markdown files with the country name as t
 - [Maldives](https://github.com/introwit/laracon-online-schedule/blob/master/Asia/maldives.md)
 - [Germany](https://github.com/introwit/laracon-online-schedule/blob/master/Europe/germany.md)
 - [Portugal](https://github.com/introwit/laracon-online-schedule/blob/master/Europe/portugal.md)
+- [Nigeria](https://github.com/introwit/laracon-online-schedule/blob/master/Africa/nigeria.md)
