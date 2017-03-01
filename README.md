@@ -13,3 +13,6 @@ As listed above this repo contains the markdown files with the country name as t
 - [Romania](https://github.com/introwit/laracon-online-schedule/blob/master/Europe/romania.md)
 - [Canada](https://github.com/introwit/laracon-online-schedule/blob/master/NorthAmerica/canada.md)
 - [Colombia](https://github.com/introwit/laracon-online-schedule/blob/master/SouthAmerica/colombia.md)
+- [Maldives](https://github.com/introwit/laracon-online-schedule/blob/master/Asia/maldives.md)
+- [Germany](https://github.com/introwit/laracon-online-schedule/blob/master/Europe/germany.md)
+- [Portugal](https://github.com/introwit/laracon-online-schedule/blob/master/Europe/portugal.md)
