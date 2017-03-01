@@ -1,4 +1,4 @@
-## UTC +2
+## UTC +1
 
 - 8th March - 02:00pm - Mingle in Slack
 - 8th March - 02:45pm - Opening remarks
