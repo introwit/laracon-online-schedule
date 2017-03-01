@@ -18,3 +18,4 @@ As listed above this repo contains the markdown files with the country name as t
 - [Portugal](https://github.com/introwit/laracon-online-schedule/blob/master/Europe/portugal.md)
 - [Nigeria](https://github.com/introwit/laracon-online-schedule/blob/master/Africa/nigeria.md)
 - [Mexico](https://github.com/introwit/laracon-online-schedule/blob/master/NorthAmerica/mexico.md)
+- [Philippines](https://github.com/introwit/laracon-online-schedule/blob/master/Asia/philippines.md)
