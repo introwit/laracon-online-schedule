@@ -6,7 +6,7 @@
 - 8th March - 09:00pm - Evan You
 - 8th March - 10:00pm - Break & Mingle in Slack
 - 8th March - 10:15pm - Rachel Andrew
-- 8th March - 11:15am - Adam Wathan
+- 8th March - 11:15pm - Adam Wathan
 - 9th March - 12:15am - Break & Mingle in Slack
 - 9th March - 12:30am - Taylor Otwell
 - 9th March - 01:30am - Nick Canzoneri
