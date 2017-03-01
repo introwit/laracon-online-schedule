@@ -6,5 +6,5 @@ As listed above this repo contains the markdown files with the country name as t
 
 - [India](https://github.com/introwit/laracon-online-schedule/blob/master/Asia/india.md)
 - [USA](https://github.com/introwit/laracon-online-schedule/blob/master/NorthAmerica/usa.md)
-- [Netherland](https://github.com/introwit/laracon-online-schedule/blob/master/Europe/netherland.md) (Credits to Herman's [tweet](https://twitter.com/HermanOstendorf/status/836961061907664896))
+- [Netherlands](https://github.com/introwit/laracon-online-schedule/blob/master/Europe/netherlands.md) (Credits to Herman's [tweet](https://twitter.com/HermanOstendorf/status/836961061907664896))
 - [Britain](https://github.com/introwit/laracon-online-schedule/blob/master/Europe/britain.md) (Credits to Dominic's [tweet](https://twitter.com/haakym/status/836941063524925440))
