@@ -9,7 +9,7 @@ Add the timezone at the top. If the schedule is already there in your country's 
 |----|----|----|----|----|----|
 |[India](Asia/india.md)|[Nigeria](Africa/nigeria.md)|[Australia](Australia/australia.md)|[Netherlands](Europe/netherlands.md)|[USA](NorthAmerica/usa.md)|[Colombia](SouthAmerica/colombia.md)|
 |[Maldives](Asia/maldives.md)|[Egypt](Africa/egypt.md)|	|[UK](Europe/uk.md)|[Canada](NorthAmerica/canada.md)|[Brazil](SouthAmerica/brazil.md)|
-|[Pakistan](Asia/pakistan.md)|[Morocco](Africa/morocco)|	|[Bulgaria](Europe/bulgaria.md)|[Mexico](NorthAmerica/mexico.md)|
+|[Pakistan](Asia/pakistan.md)|[Morocco](Africa/morocco)|	|[Bulgaria](Europe/bulgaria.md)|[Mexico](NorthAmerica/mexico.md)|[Ecuador](SouthAmerica/ecuador.md)|
 |[Philippines](Asia/philippines.md)|[Mauritius](Africa/mauritius)|	|[Cyprus](Europe/cyprus.md)|[Cuba](NorthAmerica/cuba.md)
 |[Nepal](Asia/nepal.md)|    |	|[Romania](Europe/romania.md)|
 |	| 	|	|[Germany](Europe/germany.md)|
