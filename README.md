@@ -26,6 +26,7 @@ Add the timezone at the top. If the schedule is already there in your country's 
 |	| 	|	|[Denmark](Europe/denmark.md)|
 |	| 	|	|[Lithuania](Europe/lithuania.md)|
 |	| 	|	|[Czechia](Europe/czechia.md)|
+|	| 	|	|[Finland](Europe/finland.md)|
 
 ## Shout-out
 
