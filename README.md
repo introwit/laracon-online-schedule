@@ -21,6 +21,7 @@ Add the timezone at the top. If the schedule is already there in your country's 
 |	| 	|	|[Poland](Europe/poland.md)|
 |	| 	|	|[Russia](Europe/russia.md)|
 |	| 	|	|[Spain](Europe/spain.md)|
+|	| 	|	|[Estonia](Europe/estonia.md)|
 
 ## Shout-out
 
