@@ -23,6 +23,8 @@ Add the timezone at the top. If the schedule is already there in your country's 
 |	| 	|	|[Spain](Europe/spain.md)|
 |	| 	|	|[Estonia](Europe/estonia.md)|
 |	| 	|	|[France](Europe/france.md)|
+|	| 	|	|[Denmark](Europe/denmark.md)|
+|	| 	|	|[Lithuania](Europe/lithuania.md)|
 
 ## Shout-out
 
