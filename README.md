@@ -20,7 +20,8 @@ Add the timezone at the top. If the schedule is already there in your country's 
 |	| 	|	|[Ukraine](Europe/ukraine.md)|
 |	| 	|	|[Poland](Europe/poland.md)|
 |	| 	|	|[Russia](Europe/russia.md)|
+|	| 	|	|[Spain](Europe/spain.md)|
 
-**Shout-out**
+## Shout-out
 
 - Special thanks to the team [LUBUS](https://github.com/lubusIN) for making me step into the amazing Open Source world right from my initial days of learning Web development & teaching me the importance of community work. Also a big thank you to [Jeffrey Way](https://twitter.com/jeffrey_way), [Alex Garrett](https://twitter.com/alexjgarrett), [Ajit Bohra](https://twitter.com/ajitbohra), & [Pravin Prajapati](https://twitter.com/buddhamaan) for being the best companion in teaching & learning things :)
