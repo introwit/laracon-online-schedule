@@ -1,4 +1,4 @@
-## Guatemala (UTC−06:00)
+## Guatemala, Belice, Honduras, El Salvador, Nicaragua, Costa Rica (UTC−06:00)
 
 - 8th March - 07:00am -	Mingle in Slack
 - 8th March - 07:45am -	Opening remarks
