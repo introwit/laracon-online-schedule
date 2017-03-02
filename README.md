@@ -11,7 +11,7 @@ Add the timezone at the top. If the schedule is already there in your country's 
 |[Maldives](Asia/maldives.md)|[Egypt](Africa/egypt.md)|[New Zealand](Oceania/new-zealand.md)|[UK](Europe/uk.md)|[Canada](NorthAmerica/canada.md)|[Brazil](SouthAmerica/brazil.md)|
 |[Pakistan](Asia/pakistan.md)|[Morocco](Africa/morocco)|	|[Bulgaria](Europe/bulgaria.md)|[Mexico](NorthAmerica/mexico.md)|[Argentina](SouthAmerica/argentina.md)|
 |[Philippines](Asia/philippines.md)|[Mauritius](Africa/mauritius)|	|[Cyprus](Europe/cyprus.md)|[Cuba](NorthAmerica/cuba.md)|[Ecuador](SouthAmerica/ecuador.md)|
-|[Nepal](Asia/nepal.md)|[Tunisia](Africa/tunisia.md)|	|[Romania](Europe/romania.md)|[Guatemala](NorthAmerica/guatemala.md)|
+|[Nepal](Asia/nepal.md)|[Tunisia](Africa/tunisia.md)|	|[Romania](Europe/romania.md)|[Guatemala](NorthAmerica/guatemala.md)|[Chile](SouthAmerica/chile.md)|
 |[Myanmar](Asia/myanmar.md)| 	|	|[Germany](Europe/germany.md)|[Belice](NorthAmerica/belice.md)|
 |[China](Asia/china.md)| 	|	|[Portugal](Europe/portugal.md)|[Honduras](NorthAmerica/honduras.md)|
 |	| 	|	|[Belgium](Europe/belgium.md)|[El Salvador](NorthAmerica/el-salvador.md)|
