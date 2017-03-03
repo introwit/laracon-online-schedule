@@ -1,5 +1,4 @@
-
-## UTC +1
+## Nigeria Time (UTC+01:00)
 
 - 8th March - 02:00pm - Mingle in Slack
 - 8th March - 02:45pm - Opening remarks
