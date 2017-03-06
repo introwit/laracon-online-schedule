@@ -12,7 +12,7 @@ Add the timezone at the top. If the schedule is already there in your country's 
 |[Pakistan](Asia/pakistan.md)|[Morocco](Africa/morocco.md)|	|[Bulgaria](Europe/bulgaria.md)|[Mexico](NorthAmerica/mexico.md)|[Argentina](SouthAmerica/argentina.md)|
 |[Philippines](Asia/philippines.md)|[Mauritius](Africa/mauritius.md)|	|[Cyprus](Europe/cyprus.md)|[Cuba](NorthAmerica/cuba.md)|[Ecuador](SouthAmerica/ecuador.md)|
 |[Nepal](Asia/nepal.md)|[Tunisia](Africa/tunisia.md)|	|[Romania](Europe/romania.md)|[Guatemala](NorthAmerica/guatemala.md)|[Chile](SouthAmerica/chile.md)|
-|[Myanmar](Asia/myanmar.md)|[South Africa](Africa/southafrica.md)|	|[Germany](Europe/germany.md)|[Belice](NorthAmerica/belice.md)|
+|[Myanmar](Asia/myanmar.md)|[South Africa](Africa/southafrica.md)|	|[Germany](Europe/germany.md)|[Belice](NorthAmerica/belice.md)|[Venezuela](SouthAmerica/venezuela.md)|
 |[China](Asia/china.md)| 	|	|[Portugal](Europe/portugal.md)|[Honduras](NorthAmerica/honduras.md)|
 |[Vietnam](Asia/vietnam.md)| 	|	|[Belgium](Europe/belgium.md)|[El Salvador](NorthAmerica/el-salvador.md)|
 |[Japan](Asia/japan.md)	| 	|	|[Serbia](Europe/serbia.md)|[Nicaragua](NorthAmerica/nicaragua.md)|
