@@ -14,4 +14,4 @@
 - 8th March - 09:45pm - Jason McCreary
 - 8th March - 10:45pm - Matt Stauffer
 - 8th March - 11:45pm - Closing remarks
-- 8th March - 00:00am - Mingle in Slack
+- 9th March - 00:00am - Mingle in Slack
