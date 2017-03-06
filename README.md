@@ -15,7 +15,7 @@ Add the timezone at the top. If the schedule is already there in your country's 
 |[Myanmar](Asia/myanmar.md)| 	|	|[Germany](Europe/germany.md)|[Belice](NorthAmerica/belice.md)|
 |[China](Asia/china.md)| 	|	|[Portugal](Europe/portugal.md)|[Honduras](NorthAmerica/honduras.md)|
 |[Vietnam](Asia/vietnam.md)| 	|	|[Belgium](Europe/belgium.md)|[El Salvador](NorthAmerica/el-salvador.md)|
-|	| 	|	|[Serbia](Europe/serbia.md)|[Nicaragua](NorthAmerica/nicaragua.md)|
+|[Japan](Asia/japan.md)	| 	|	|[Serbia](Europe/serbia.md)|[Nicaragua](NorthAmerica/nicaragua.md)|
 |	| 	|	|[Norway](Europe/norway.md)|[Costa Rica](NorthAmerica/costa-rica.md)|
 |	| 	|	|[Ukraine](Europe/ukraine.md)|
 |	| 	|	|[Poland](Europe/poland.md)|
