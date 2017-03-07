@@ -12,6 +12,6 @@
 - 8th March - 10:30pm - Nick Canzoneri
 - 8th March - 11:30pm - Break & Mingle in Slack
 - 8th March - 11:45pm - Jason McCreary
-- 8th March - 12:45am - Matt Stauffer
+- 9th March - 12:45am - Matt Stauffer
 - 9th March - 01:45am - Closing remarks
 - 9th March - 02:00am - Mingle in Slack
