@@ -1,4 +1,4 @@
-## Asia/Dhaka (UTC +6:00)
+## Asia/Dhaka (UTC +06:00)
 
 - 8th March - 07:00pm - Mingle in Slack
 - 8th March - 07:45pm - Opening remarks
