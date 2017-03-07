@@ -19,7 +19,7 @@ Add the timezone at the top. If the schedule is already there in your country's 
 |[Malaysia](Asia/malaysia.md)| 	|	|[Norway](Europe/norway.md)|[Costa Rica](NorthAmerica/costa-rica.md)|
 |[Indonesia](Asia/indonesia.md)| 	|	|[Ukraine](Europe/ukraine.md)|
 |[Saudi Arabia](Asia/saudiarabia.md)| 	|	|[Poland](Europe/poland.md)|
-|	| 	|	|[Russia](Europe/russia.md)|
+|[Bangladesh](Asia/bangladesh.md)| 	|	|[Russia](Europe/russia.md)|
 |	| 	|	|[Spain](Europe/spain.md)|
 |	| 	|	|[Estonia](Europe/estonia.md)|
 |	| 	|	|[France](Europe/france.md)|
