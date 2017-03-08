@@ -33,6 +33,7 @@ Add the timezone at the top. If the schedule is already there in your country's 
 |	| 	|	|[Turkey](Europe/Turkey.md)|
 |	| 	|	|[Italy](Europe/italy.md)|
 |	| 	|	|[Sweden](Europe/sweden.md)|
+|	| 	|	|[Georgia](Europe/Georgia.md)|
 
 ## Shout-out
 
