@@ -35,6 +35,7 @@ Add the timezone at the top. If the schedule is already there in your country's 
 |	| 	|	|[Sweden](Europe/sweden.md)|
 |	| 	|	|[Ireland](Europe/ireland.md)|
 |	| 	|	|[Georgia](Europe/Georgia.md)|
+|	| 	|	|[Malta](Europe/malta.md)|
 
 ## Shout-out
 
