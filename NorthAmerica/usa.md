@@ -24,7 +24,7 @@
 - 8th March - 09:00am - Evan You
 - 8th March - 10:00am - Break & Mingle in Slack
 - 8th March - 10:15am - Rachel Andrew
-- 8th March - 11:15pm - Adam Wathan
+- 8th March - 11:15am - Adam Wathan
 - 8th March - 12:15pm - Break & Mingle in Slack
 - 8th March - 12:30pm - Taylor Otwell
 - 8th March - 01:30pm - Nick Canzoneri
@@ -42,9 +42,9 @@
 - 8th March - 08:00am - Evan You
 - 8th March - 09:00am - Break & Mingle in Slack
 - 8th March - 09:15am - Rachel Andrew
-- 8th March - 10:15pm - Adam Wathan
-- 8th March - 11:15pm - Break & Mingle in Slack
-- 8th March - 11:30pm - Taylor Otwell
+- 8th March - 10:15am - Adam Wathan
+- 8th March - 11:15am - Break & Mingle in Slack
+- 8th March - 11:30am - Taylor Otwell
 - 8th March - 12:30pm - Nick Canzoneri
 - 8th March - 01:30pm - Break & Mingle in Slack
 - 8th March - 01:45pm - Jason McCreary
@@ -60,10 +60,10 @@
 - 8th March - 07:00am - Evan You
 - 8th March - 08:00am - Break & Mingle in Slack
 - 8th March - 08:15am - Rachel Andrew
-- 8th March - 09:15pm - Adam Wathan
-- 8th March - 10:15pm - Break & Mingle in Slack
-- 8th March - 10:30pm - Taylor Otwell
-- 8th March - 11:30pm - Nick Canzoneri
+- 8th March - 09:15am - Adam Wathan
+- 8th March - 10:15am - Break & Mingle in Slack
+- 8th March - 10:30am - Taylor Otwell
+- 8th March - 11:30am - Nick Canzoneri
 - 8th March - 12:30pm - Break & Mingle in Slack
 - 8th March - 12:45pm - Jason McCreary
 - 8th March - 01:45pm - Matt Stauffer
