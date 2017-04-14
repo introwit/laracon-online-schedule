@@ -6,7 +6,7 @@ As listed above this repo contains the markdown files with the country name as t
 Add the timezone at the top. If the schedule is already there in your country's timezone in this repo, please give it a proofread. Use the [usa.md](https://github.com/introwit/laracon-online-schedule/blob/master/NorthAmerica/usa.md) file as the starting point. Don't update the readme file. Since many forks are being created at the same time an unnecessary resolve conflict task increases for the contributors. I will update the readme with links periodically.
 
 | Asia | Africa | Oceania | Europe | North America | South America |
-|----|----|----|----|----|----|----|
+|----|----|----|----|----|----|
 |[India](Asia/india.md)|[Nigeria](Africa/nigeria.md)|[Australia](Oceania/australia.md)|[Netherlands](Europe/netherlands.md)|[USA](NorthAmerica/usa.md)|[Colombia](SouthAmerica/colombia.md)|
 |[Maldives](Asia/maldives.md)|[Egypt](Africa/egypt.md)|[New Zealand](Oceania/new-zealand.md)|[UK](Europe/uk.md)|[Canada](NorthAmerica/canada.md)|[Brazil](SouthAmerica/brazil.md)|
 |[Pakistan](Asia/pakistan.md)|[Morocco](Africa/morocco.md)|	|[Bulgaria](Europe/bulgaria.md)|[Mexico](NorthAmerica/mexico.md)|[Argentina](SouthAmerica/argentina.md)|
